@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\formBir\formBir\bin\Debug\formBir.exe.config
+C:\Users\User\source\repos\formBir\formBir\bin\Debug\formBir.exe
+C:\Users\User\source\repos\formBir\formBir\bin\Debug\formBir.pdb
+C:\Users\User\source\repos\formBir\formBir\obj\Debug\formBir.csprojAssemblyReference.cache
+C:\Users\User\source\repos\formBir\formBir\obj\Debug\formBir.Form1.resources
+C:\Users\User\source\repos\formBir\formBir\obj\Debug\formBir.Properties.Resources.resources
+C:\Users\User\source\repos\formBir\formBir\obj\Debug\formBir.csproj.GenerateResource.cache
+C:\Users\User\source\repos\formBir\formBir\obj\Debug\formBir.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\formBir\formBir\obj\Debug\formBir.exe
+C:\Users\User\source\repos\formBir\formBir\obj\Debug\formBir.pdb
